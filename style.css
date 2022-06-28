@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Montserrat+Alternates:ital@1&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    width: 100%;
+    height: 60px;
+    background-color:#D1FCEF;    
+}
+
+li{
+    display: inline-block;
+}
+.logo{
+    display: block;
+    float: left;
+    margin-left: 7.43055%;
+    margin-top: 12px;
+    margin-right: 0;
+}
+
+.geo{
+   
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 16px;
+    line-height: 19.5px;
+    font-weight: 700;
+    color: #079999;
+    margin-left: 4.86%;
+    margin-top: 20px;
+   
+
+}
+
+.sol{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18.29px;
+    color: #079999;
+    margin-left: 4.86%;
+}
+
+.text{
+    margin-left: 4.86%;
+    margin-top: 20px;
+    color: #002F31;
+    font-family: 'Montserrat Alternates';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19.5px;
+    text-align: center;
+    float: right;
+    /* margin-right: 5%; */
+}
+.text.first{
+   width: 55px;
+   margin-right: 7.43055%;
+}
+.text.second{
+    width: 67px;
+}
+.text.third{
+    width: 82px;
+}
+.text.fourth{
+    width: 90px;
+}
+.text.fifth{
+    width: 51px;
+}
+a{
+    text-decoration: none;
+}
+
+
+
